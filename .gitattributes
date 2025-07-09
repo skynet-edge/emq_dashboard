@@ -1,3 +1,7 @@
 *.c linguist-detectable=false
 *.h linguist-detectable=false
 *.js linguist-detectable=false
+*.html linguist-detectable=false
+*.scss linguist-detectable=false
+*.css linguist-detectable=false
+*.less linguist-detectable=false
